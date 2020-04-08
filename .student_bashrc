@@ -1,0 +1,4 @@
+alias cp="cp -i"
+alias l="l -lsah"
+alias mv="mv -i"
+alias rm="rm -i"
